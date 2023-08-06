@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="entities.GuessedWordTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-06T23:24:08" hostname="DUMB" time="0.027">
+  <properties/>
+  <testcase name="isWordGuessed()" classname="entities.GuessedWordTest" time="0.025"/>
+  <testcase name="testTrueAndFalseMakeGuess()" classname="entities.GuessedWordTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

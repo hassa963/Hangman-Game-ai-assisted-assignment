@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="interfaceAdapters.UserInputHandlerTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2023-08-06T23:24:08" hostname="DUMB" time="0.737">
+  <properties/>
+  <testcase name="[1] 123, b" classname="interfaceAdapters.UserInputHandlerTest" time="0.674"/>
+  <testcase name="[2] %, b" classname="interfaceAdapters.UserInputHandlerTest" time="0.003"/>
+  <testcase name="[3] def, b" classname="interfaceAdapters.UserInputHandlerTest" time="0.003"/>
+  <testcase name="[1] 2, 2" classname="interfaceAdapters.UserInputHandlerTest" time="0.004"/>
+  <testcase name="[2] 1, 1" classname="interfaceAdapters.UserInputHandlerTest" time="0.001"/>
+  <testcase name="[3] 3, 3" classname="interfaceAdapters.UserInputHandlerTest" time="0.001"/>
+  <testcase name="[1] 123, 2" classname="interfaceAdapters.UserInputHandlerTest" time="0.002"/>
+  <testcase name="[2] %, 2" classname="interfaceAdapters.UserInputHandlerTest" time="0.002"/>
+  <testcase name="[3] def, 2" classname="interfaceAdapters.UserInputHandlerTest" time="0.003"/>
+  <testcase name="[1] A, a" classname="interfaceAdapters.UserInputHandlerTest" time="0.002"/>
+  <testcase name="[2] b, b" classname="interfaceAdapters.UserInputHandlerTest" time="0.002"/>
+  <testcase name="[3] C, c" classname="interfaceAdapters.UserInputHandlerTest" time="0.002"/>
+  <testcase name="[4] z, z" classname="interfaceAdapters.UserInputHandlerTest" time="0.002"/>
+  <system-out><![CDATA[Enter your choice: Enter your choice: Enter your choice: Enter your choice: Invalid input. Please enter a valid choice.
+Enter your choice: Enter your choice: Invalid input. Please enter a valid choice.
+Enter your choice: Enter your choice: Invalid input. Please enter a valid choice.
+Enter your choice: ]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
