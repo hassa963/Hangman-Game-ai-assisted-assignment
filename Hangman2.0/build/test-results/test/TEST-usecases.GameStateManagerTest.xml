@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="usecases.GameStateManagerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-06T23:24:09" hostname="DUMB" time="0.005">
+<testsuite name="usecases.GameStateManagerTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-08-06T23:39:50" hostname="DUMB" time="0.005">
   <properties/>
-  <testcase name="initializeWithValidDifficulty()" classname="usecases.GameStateManagerTest" time="0.004"/>
+  <testcase name="initializeWithValidDifficulty()" classname="usecases.GameStateManagerTest" time="0.003"/>
   <testcase name="initializeWithInvalidDifficulty()" classname="usecases.GameStateManagerTest" time="0.001"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
