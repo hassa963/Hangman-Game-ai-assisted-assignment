@@ -39,5 +39,6 @@ application layer.
 
 <img width="689" alt="image" src="https://github.com/hassa963/Hangman-Game-ai-assisted-assignment/assets/133050886/4214d740-68b4-4e30-a0b9-4d783e110f5e">
 
+
 ## Code Smells and violations
 I believe I avoided code smells and based on my understanding I do not think I violated clean architecture.
